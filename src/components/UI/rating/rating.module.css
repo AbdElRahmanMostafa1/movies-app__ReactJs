@@ -1,0 +1,12 @@
+.ratingContainer {
+  display: flex;
+  justify-content: space-between;
+}
+
+.starsContainer svg {
+  font-size: 20px;
+}
+
+.starsContainer svg path {
+  color: orange;
+}
